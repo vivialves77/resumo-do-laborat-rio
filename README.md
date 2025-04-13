@@ -1,2 +1,3 @@
 # resumo-do-laborat-rio
 Neste repositório, estão documentadas as principais lições extraídas do desenvolvimento do laboratório na DIO.
+Estudando para o AZ-900, consegui entender melhor como funciona a computação em nuvem e os principais serviços oferecidos pela Microsoft Azure. Aprendi os conceitos básicos de nuvem, como IaaS, PaaS e SaaS, e conheci recursos como máquinas virtuais, armazenamento, redes e bancos de dados. Também vi como o Azure lida com segurança, gerenciamento de custos e escalabilidade. Foi uma ótima introdução, que me deu uma base sólida pra continuar aprendendo sobre cloud.
